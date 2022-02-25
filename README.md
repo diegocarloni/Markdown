@@ -25,8 +25,10 @@ __*~~misturado~~*__
 
 ## Lista numerada: (3 espaços = sub)
 1. Teste
+   
    1.sub1
    1.sub2    
+
 1. Teste2
 1. Teste3
 999. Teste4
