@@ -82,3 +82,7 @@ else:
 ## Emojis
 
 :hand:
+
+## Para saber mais
+
+[Acesse o material](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
