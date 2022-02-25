@@ -25,9 +25,8 @@ __*~~misturado~~*__
 
 ## Lista numerada: (3 espaços = sub)
 1. Teste
-   
    1.sub1
-   1.sub2    
+   2.sub2    
 
 1. Teste2
 1. Teste3
@@ -67,7 +66,7 @@ Num | Nome | Nota
 
 ## Evidênciando comandos
 
-Alguém pode me explicar qual a finalidade do comando 'document.getElementById()' da linguagem JavaScript
+Alguém pode me explicar qual a finalidade do comando `document.getElementById()` da linguagem JavaScript
 
 ## Trecho de código
 
@@ -82,4 +81,4 @@ else:
 
 ## Emojis
 
-:hand
+:hand:
